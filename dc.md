@@ -1,5 +1,4 @@
 ---
-permalink: /dc
-redirect_to:
-  - https://discord.com/invite/KZ2FtDKQPk
+ redirect:   https://discord.com/invite/KZ2FtDKQPk
+ layout:     redirect
 ---
